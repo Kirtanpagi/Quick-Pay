@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F1F0FC !important;
+}
+
+/* NAVBAR START */
+
+.btn-color {
+    background-color: #4952B7 !important;
+}
+
+.btn-text {
+    color: #4952B7 !important;
+}
+
+.btn-hover:hover {
+    background-color: #4952B7 !important;
+    color: #fff !important;
+}
+
+.btn-hover i:hover {
+    background-color: #4952B7 !important;
+    color: #fff !important;
+}
+
+.btn-bg {
+    background-color: rgb(73, 82, 183) !important;
+    color: #fff !important;
+}
+
+.nav-link:hover {
+    color: #4952B7 !important;
+}
+
+.nav-link.active {
+    color: #4952B7 !important;
+}
+
+/* NAVBAR END */
+
+/* SECTION 1 START */
+
+.img-section {
+    position: relative;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+.img-section img {
+    max-width: 100%;
+    height: auto;
+}
+
+.img-position {
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+}
+
+.card-title {
+    font-size: 1.5rem;
+}
+
+
+.card-section{
+    position: relative;
+}
+
+.position-container{
+    position: absolute;
+    bottom: -20%;
+    transform: translateY(-50%,-50%);
+}
+
+/* SECTION 1 END */
+
+
+/* SECTION 2 START */
+
+.set-img{
+    max-width: 100%;
+    height: auto;
+}
+
+.text-h2 {
+    font-weight: 600 !important;
+    font-size: 32.34px !important;
+    line-height: 48.51px !important;
+    color: #323232 !important;
+}
+
+.text-span {
+    font-weight: 400 !important;
+    font-size: 17.25px !important;
+    line-height: 25.87px !important;
+}
+
+/* SECTION 2 END */
+
+/* SECTION 5 START */
+
+.card-style .card {
+    background-color: #4952B7;
+}
+
+.card-btn:hover {
+    background-color: #fff !important;
+    color: #000 !important;
+}
+
+/* SECTION 5 END */
+
+
+/* SECTION 6 START */
+
+.carousel-indicators [data-bs-target] {
+    background-color: #4952B7;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: #4952B7;
+    border-radius: 50%;
+    padding: 5px !important;
+    width: 2rem;
+    height: 2rem;
+}
+
+/* SECTION 6 END */
+
+/* SECTION 7 START */
+
+.txt-btn {
+    color: #4952B7 !important;
+}
+
+.section-7 {
+    background-color: #4952B7 !important;
+}
+
+/* SECTION 7 END */
+
+/* FOOTER SECTION START */
+
+.footer-bg nav {
+    background-color: #F1F0FC !important;
+}
+
+.btn-nav:hover {
+    color: #4952B7 !important;
+}
+
+.line::before{
+    content: "|";
+    color: #4952B7 !important;
+}
+
+/* FOOTER SECTION END */
+
